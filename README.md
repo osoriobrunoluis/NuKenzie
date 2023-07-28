@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 <h1> 🌴 Bem Vindxs! </h1>
 
 <h2> 🌱 Projeto Nu Kenzie</h2>
@@ -16,4 +15,4 @@
   <h3>⚙️ Fazer o git clone no repositório<a href="https://github.com/osoriobrunoluis/NuKenzie"> NuKenzie </a></h3>
   <p> Rodando o projeto npm install / npm start </p>  
   <p>Porta http://localhost:3000](http://localhost:3000)</p>
->>>>>>> 64346996a511191fab1b0451d2cbeb4fd46f4753
+
