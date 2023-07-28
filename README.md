@@ -12,4 +12,4 @@
   <h2> Rodando o projeto </h2>
   
   <h3>⚙️ Fazer o git clone no repositório<a href="https://github.com/osoriobrunoluis/NuKenzie"> NuKenzie </a></h3>
-  <p> Rodando o projeto <br> <p> npm install / npm start </p> <br> <p>Porta http://localhost:3000](http://localhost:3000)</p></p>
+  <p> Rodando o projeto npm install / npm start </p> <br> <p>Porta http://localhost:3000](http://localhost:3000)</p></p>
