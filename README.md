@@ -5,7 +5,8 @@
 
 <h3 > Neste projeto, empreguei habilidades avançadas em HTML, CSS, JavaScript e Node.js para desenvolver uma página inicial com uma funcionalidade adicional que permite o controle de despesas, permitindo a inserção e o gerenciamento de valores de entrada e saída.</h3>
  
- <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img  align="center" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+ <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+          
           
 
 <p>Para acessar o link do projeto no Vercel  <a href="https://react-entrega-s1-template-nu-kenzie-bl.vercel.app/" >Clique aqui</a></p>
