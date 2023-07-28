@@ -1,0 +1,38 @@
+:root {
+  --color-primary: #fd377e;
+  --color-primary-2: #e34981;
+  --color-secondary: #03b898;
+
+  --grey-4: #212529;
+  --grey-3: #868e96;
+  --grey-2: #e9ecef;
+  --grey-1: #f8f9fa;
+  --grey-0: #ffffff;
+
+  --font-family-nunito: "Nunito", sans-serife;
+  --font-family-inter: "Inter", sans-serife;
+
+  --font-size-38: 3.8rem;
+  --font-size-28: 2.8rem;
+  --font-size-24: 2.4rem;
+  --font-size-22: 2.2rem;
+  --font-size-20: 2rem;
+  --font-size-18: 1.8rem;
+  --font-size-16: 1.6rem;
+  --font-size-14: 1.4rem;
+  --font-size-12: 1.2rem;
+
+  --font-weigth-800: 800;
+  --font-weigth-700: 700;
+  --font-weigth-600: 600;
+  --font-weigth-500: 500;
+  --font-weigth-400: 400;
+
+  --border-radius: 0.8rem;
+
+  font-size: 62.5%;
+}
+
+button {
+  cursor: pointer;
+}

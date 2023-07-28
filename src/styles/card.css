@@ -1,0 +1,117 @@
+.card {
+  width: 351px;
+  display: flex;
+  flex-direction: column;
+  background: var(--grey-1);
+  border-radius: 4px;
+  height: 153px;
+  border-left: 5px solid var(--color-secondary);
+  margin-top: 20px;
+  margin: 0 auto;
+}
+.card__border--grey {
+  width: 351px;
+  display: flex;
+  flex-direction: column;
+  background: var(--grey-1);
+  border-radius: 4px;
+  height: 153px;
+  border-left: 5px solid var(--grey-2);
+  margin-top: 20px;
+  margin: 0 auto;
+}
+
+.card__elements {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding-left: 14px;
+}
+
+.elements__description__type {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 15px;
+}
+
+.card__value__remove {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 5px;
+}
+
+.card__description {
+  font-family: var(--font-family-inter);
+  font-style: normal;
+  font-weight: var(--font-weigth-700);
+  font-size: var(--font-size-16);
+  color: var(--grey-4);
+}
+
+.card__value {
+  font-family: var(--font-family-nunito);
+  font-style: normal;
+  font-weight: var(--font-weigth-400);
+  font-size: var(--font-size-12);
+  color: var(--grey-4);
+}
+
+.card__type {
+  font-family: var(--font-family-nunito);
+  font-style: normal;
+  font-weight: var(--font-weigth-400);
+  font-size: var(--font-size-12);
+  color: var(--grey-4);
+}
+
+.btn__remove {
+  width: 22px;
+  height: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background-color: var(--grey-2);
+}
+
+@media (min-width: 768px) {
+  .card {
+    height: 87px;
+    padding-top: 8px;
+    width: 570px;
+  }
+
+  .card__border--grey {
+    height: 87px;
+    padding-top: 8px;
+    width: 570px;
+  }
+
+  .card__elements {
+    flex-direction: row;
+    width: 100%;
+    padding: 8px 13px 15px 14px;
+    box-sizing: border-box;
+    justify-content: space-between;
+  }
+
+  .elements__description__type {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 0px;
+  }
+
+  .card__value__remove {
+    flex-direction: row;
+    gap: 50px;
+    padding: 0px;
+  }
+
+  .btn__remove {
+    margin-top: -6px;
+  }
+}

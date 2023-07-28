@@ -1,0 +1,110 @@
+.form {
+  margin: 0 auto;
+  max-width: 393px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: var(--grey-0);
+  border: 1px solid var(--grey-2);
+  border-radius: 4px;
+  padding: 38px 24.5px 0px 24.5px;
+  width: 345px;
+  margin-top: 12px;
+}
+
+.form__description {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.form__description--label {
+  font-family: var(--font-family-inter);
+  font-weight: var(--font-weigth-400);
+  font-size: var(--font-size-12);
+  color: var(--grey-4);
+}
+
+.form__description--input {
+  padding: 0px 16px;
+  background: var(--grey-1);
+  border: 2px solid var(--grey-1);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-inter);
+  font-weight: var(--font-weigth-500);
+  font-size: var(--font-size-14);
+  color: var(--grey-3);
+  height: 52px;
+}
+
+.form__description--span {
+  font-family: var(--font-family-inter);
+  font-weight: var(--font-weigth-400);
+  font-size: 1.2rem;
+  color: var(--grey-3);
+  width: 146px;
+}
+
+.form__input__select {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.form__input--value {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__input--label {
+  margin-bottom: 9px;
+  font-family: var(--font-family-inter);
+  font-weight: var(--font-weigth-400);
+  font-size: var(--font-size-12);
+  color: var(--grey-4);
+}
+
+.form__input {
+  height: 48px;
+  padding: 0px 16px;
+  background: var(--grey-1);
+  border: 2px solid var(--grey-1);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-inter);
+  font-weight: var(--font-weigth-400);
+  font-size: var(--font-size-16);
+  color: var(--grey-3);
+  background-image: url(../assets/cifrao.png);
+  background-repeat: no-repeat;
+  background-position: center right 16px;
+  width: 50%;
+}
+
+.form__div--select {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.form__select--label {
+  font-family: var(--font-family-inter);
+  font-weight: var(--font-weigth-400);
+  font-size: var(--font-size-12);
+  color: var(--grey-4);
+  margin-bottom: 9px;
+}
+
+.form__select {
+  padding: 0px 16px;
+  background: var(--grey-1);
+  border: 2px solid var(--grey-1);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-inter);
+  font-weight: var(--font-weigth-400);
+  font-size: var(--font-size-12);
+  color: var(--grey-3);
+  height: 48px;
+  width: 100%;
+}
